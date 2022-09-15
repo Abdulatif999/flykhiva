@@ -1,0 +1,893 @@
+@media (max-width: 2560px) {
+  .container {
+    max-width: 1920px;
+  }
+  .swiper-slide-first {
+    background: url(../img/slide_Fly_khiva_2_gib.png) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-second {
+    background: url(../img/slide_Fly_khiva_1_gib.png) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-third {
+    background: url(../img/33_gib.png) no-repeat;
+    width: 100%;
+  }
+
+}
+@media (max-width: 1920px) {
+  .container {
+    max-width: 1440px;
+  }
+  .booking {
+    position: relative;
+    top: 240px;
+    left: 1120px;
+    z-index: 3;
+  }
+  .booking-img {
+    width: 300px;
+    border-radius: 10px;
+  }
+}
+
+@media (max-width: 1440px) {
+  .container {
+    max-width: 1200px;
+  }
+  .swiper-slide-first {
+    background: url(../img/slide_Fly_khiva_2_1440.png) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-second {
+    background: url(../img/slide_Fly_khiva_1_1440.png) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-third {
+    background: url(../img/1_1440.png) no-repeat;
+    width: 100%;
+  }
+  .registration-img {
+    width: 150px;
+    height: 150px;
+  }
+  .booking {
+    position: relative;
+    top: 240px;
+    left: 853px;
+    z-index: 3;
+  }
+  .booking-img {
+    width: 300px;
+    border-radius: 10px;
+  }
+
+  .book {
+    background-size: 1200px;
+  }
+}
+
+@media (max-width: 1290px) {
+  .container {
+    max-width: 1024px;
+  }
+  .booking {
+    position: relative;
+    top: 240px;
+    left: 720px;
+    z-index: 3;
+  }
+  .booking-img {
+    width: 270px;
+    border-radius: 10px;
+  }
+  .lang-link {
+    width: 20px;
+  }
+
+  .registration-img {
+    width: 130px;
+    height: 130px;
+  }
+
+  .registration-card-desc {
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  .header {
+    background-size: 1290px;
+  }
+
+  .book {
+    top: 400px;
+    background-size: 1024px;
+  }
+
+  .contact-cards-info {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .contact-cards-left-title {
+    font-size: 30px;
+  }
+
+  .contact-cards-right {
+    gap: 70px;
+  }
+
+  .contact-cards-right-info {
+    font-size: 18px;
+  }
+
+  .contact-maps {
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .container {
+    max-width: 768px;
+  }
+  .swiper-slide-first {
+    background: url(../img/slide_Fly_khiva_2_desktop.png) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-second {
+    background: url(../img/slide_Fly_khiva_1_desktop.png) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-third {
+    background: url(../img/1_desctop.png) no-repeat;
+    width: 100%;
+  }
+
+  .lang-link {
+    width: 20px;
+  }
+
+  .reg-card-text {
+    width: 140px;
+    height: 40px;
+    font-size: 14px;
+  }
+
+  .reg-card-num {
+    width: 140px;
+    height: 40px;
+    margin-left: 10px;
+    font-size: 14px;
+  }
+
+  .reg-card-btn {
+    width: 142px;
+    height: 42px;
+    margin-left: 10px;
+    font-size: 14px;
+  }
+
+  .book {
+    background: url(../img/book2.png) no-repeat top center;
+    background-size: 768px;
+    border-radius: 10px;
+    top: 300px;
+    position: relative;
+  }
+
+  .nav-logo-img {
+    width: 100px;
+  }
+
+  .nav-azal-logo-img {
+    width: 100px;
+  }
+
+  .about-services {
+    display: block;
+  }
+
+  .about-services-left {
+    width: 100%;
+  }
+
+  .about-services-right {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  .about-main-cards {
+    display: block;
+  }
+
+  .about-main-card-decor {
+    width: 100%;
+  }
+
+  .about-main-card {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  .nav-item a {
+    font-size: 12px;
+  }
+
+  .nav-item {
+    font-size: 12px;
+  }
+
+  .lang-link {
+    font-size: 10px;
+  }
+
+  .nav-lang img {
+    width: 25px;
+  }
+
+  .nav-lang img {
+    width: 17px;
+    margin-right: 7px;
+  }
+
+  .nav-list {
+    gap: 34px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    max-width: 684px;
+  }
+
+  .swiper-slide-first {
+    background: url(../img/slide_Fly_khiva_2_tablet.png) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-second {
+    background: url(../img/slide_Fly_khiva_1_tablet.png) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-bg {
+    width: 100%;
+  }
+
+  .registration-title {
+    font-size: 30px;
+  }
+
+  .contact-cards-info {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .contact-cards-left-title {
+    font-size: 26px;
+  }
+
+  .contact-cards-right {
+    gap: 70px;
+  }
+
+  .contact-cards-right-info {
+    font-size: 14px;
+  }
+
+  .contact-maps {
+    margin-top: 30px;
+  }
+
+  .nav-logo-img {
+    width: 80px;
+  }
+
+  .nav-azal-logo-img {
+    width: 80px;
+  }
+
+  .hamburger-menu {
+    display: block;
+  }
+
+  .title-fly {
+    font-size: 30px;
+  }
+
+  .news-cards-title {
+    font-size: 30px;
+  }
+
+  table {
+    width: 615px;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  th {
+    font-size: 12px;
+  }
+
+  th:last-child {
+    display: none;
+  }
+
+  tr {
+    height: 25px;
+  }
+
+  td {
+    font-size: 12px;
+  }
+
+  td:last-child {
+    display: none;
+  }
+}
+
+@media (max-width: 684px) {
+  .container {
+    max-width: 576px;
+  }
+  .swiper-slide-first {
+    background: url(../img/slide_Fly_khiva_2_mobi12promax.png) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-second {
+    background: url(../img/slide_Fly_khiva_1_mobi12promax.png) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-third {
+    background: url(../img/12promax.png) no-repeat;
+    width: 100%;
+  }
+  .open i {
+    font-size: 27px;
+    color: #fff;
+    margin-left: 17px;
+  }
+  .booking-img {
+    width: 400px;
+    border-radius: 10px;
+  }
+  .header-nav {
+    gap: 20px;
+  }
+  .booking {
+    position: relative;
+    top: 560px;
+    left: 18%;
+    z-index: 3;
+  }
+  .nav-logo-img {
+    width: 150px;
+  }
+  .nav-azal-logo-img {
+    width: 150px;
+  }
+  .nav-lang img {
+    width: 30px;
+    margin-right: 7px;
+  }
+  .nav-item {
+    color: black;
+    font-size: 12PX;
+  }
+
+  .nav-dropdown {
+    position: relative;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    -webkit-backdrop-filter: none;
+            backdrop-filter: none;
+  }
+
+  .nav-dropdown li a {
+    color: #000;
+  }
+
+  .registration-title {
+    font-size: 30px;
+  }
+
+  .registration-card-desc {
+    font-size: 10px;
+  }
+
+  .reg-card-text {
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+  }
+
+  .reg-card-num {
+    width: 100px;
+    height: 40px;
+    margin-left: 5px;
+    font-size: 10px;
+  }
+
+  .reg-card-btn {
+    width: 102px;
+    height: 42px;
+    margin-left: 5px;
+    font-size: 10px;
+  }
+
+  .contact-main {
+    display: block;
+  }
+
+  .contact-cards-info {
+    width: 100%;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .contact-cards-left-title {
+    font-size: 28px;
+  }
+
+  .contact-cards-right {
+    gap: 70px;
+  }
+
+  .contact-cards-right-info {
+    font-size: 16px;
+  }
+
+  .contact-maps {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  .about-services-title {
+    font-size: 14px;
+  }
+
+  .about-services-desc {
+    font-size: 13px;
+  }
+
+  .about-services-img {
+    width: 48px;
+    height: 48px;
+  }
+
+  .about-services-desc-info {
+    font-size: 12px;
+  }
+
+  .news-card {
+    display: block;
+  }
+
+  .news-card-items {
+    margin-top: 40px;
+  }
+
+  .footer-cards {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+  }
+
+  .footer-cards-info {
+    width: 45%;
+  }
+
+  .footer-cards-contacts {
+    width: 45%;
+  }
+
+  .footer-cards-info-title {
+    font-size: 22px;
+  }
+
+  .footer-cards-info-desc {
+    font-size: 10px;
+    line-height: 15px;
+  }
+
+  .footer-cards-contacts-title {
+    font-size: 22px;
+  }
+
+  .footer-cards-contacts-img {
+    width: 16px;
+  }
+
+  .footer-cards-contacts-link {
+    font-size: 10px;
+  }
+
+  .open {
+    display: inline-block;
+    font-size: 18px;
+  }
+
+  .nav-list {
+    position: fixed;
+    right: -135px;
+    top: 0;
+    bottom: 0;
+    width: 135px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    z-index: 999;
+    background: white;
+    text-align: center;
+    padding-top: 50px;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+  }
+
+  .nav-item a {
+    color: #000;
+  }
+
+  .exit {
+    display: block;
+  }
+
+  table {
+    border-radius: 10px;
+  }
+
+  tr {
+    line-height: 40px;
+  }
+
+  .nav-lang {
+    display: -webkit-box;
+    display: -ms-flexbox;
+
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
+
+@media (max-width: 576px) {
+  .container {
+    max-width: 512px;
+  }
+
+  .swiper-slide-bg {
+    width: 100%;
+  }
+
+  .registration-cards {
+    gap: 20px;
+  }
+
+  .registration-title {
+    font-size: 30px;
+  }
+
+  .registration-img {
+    width: 90px;
+    height: 90px;
+  }
+
+  .registration-card-desc {
+    font-size: 10px;
+    line-height: 20px;
+  }
+
+  .reg-card-text {
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+  }
+
+  .reg-card-num {
+    width: 100px;
+    height: 40px;
+    margin-left: 5px;
+    font-size: 10px;
+  }
+
+  .reg-card-btn {
+    width: 102px;
+    height: 42px;
+    margin-left: 5px;
+    font-size: 10px;
+  }
+
+  .book {
+    background: url(../img/book4.png) no-repeat top center;
+    background-size: 448px;
+    height: 400px;
+    top: 200px;
+  }
+
+  .fly-right {
+    overflow-x: scroll;
+  }
+
+  .fly-info {
+    width: 576px;
+  }
+
+  .nav-logo-img {
+    width: 100px;
+  }
+
+  .nav-azal-logo-img {
+    width: 100px;
+  }
+}
+
+@media (max-width: 512px) {
+  .container {
+    max-width: 414px;
+  }
+
+  .info-card-title {
+    font-size: 25px;
+  }
+
+  .info-card-title-icon {
+    margin: 0 35px 0 35px;
+  }
+
+  .dangerous-title-icon {
+    font-size: 22px;
+  }
+
+  .dangerous-item {
+    font-size: 16px;
+  }
+
+  .registration-cards {
+    gap: 20px;
+  }
+
+  .registration-title {
+    font-size: 30px;
+  }
+
+  .registration-img {
+    width: 90px;
+    height: 90px;
+  }
+
+  .registration-card-desc {
+    font-size: 8px;
+    line-height: 15px;
+  }
+
+  .reg-card-text {
+    width: 80px;
+    height: 40px;
+    font-size: 8px;
+  }
+
+  .reg-card-num {
+    width: 80px;
+    height: 40px;
+    margin-left: 5px;
+    font-size: 8px;
+  }
+
+  .reg-card-btn {
+    width: 82px;
+    height: 42px;
+    margin-left: 5px;
+    font-size: 8px;
+  }
+
+  .contact-header {
+    height: 100vh;
+  }
+
+  .nav-logo-img {
+    width: 80px;
+  }
+
+  .nav-azal-logo-img {
+    width: 80px;
+  }
+
+  .lang-link {
+    font-size: 16px;
+  }
+
+  .news-card {
+    margin: 0 auto;
+    padding-bottom: 50px;
+  }
+
+  .contact-main {
+    display: block;
+  }
+
+  .contact-cards-info {
+    width: 100%;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+  .contact-cards-left-title {
+    font-size: 25px;
+  }
+
+  .contact-cards-right {
+    gap: 70px;
+  }
+
+  .contact-cards-right-info {
+    font-size: 12px;
+  }
+
+  .contact-maps {
+    width: 100%;
+    margin-top: 30px;
+  }
+}
+
+@media (max-width: 414px) {
+  .swiper-slide-first {
+    background: url(../img/slide_Fly_khiva_2_mobi.jpg) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-second {
+    background: url(../img/slide_Fly_khiva_1_mobi.jpg) no-repeat;
+    width: 100%;
+  }
+
+  .swiper-slide-third {
+    background: url(../img/11.png) no-repeat;
+    width: 100%;
+  }
+
+  .container {
+    max-width: 350px;
+  }
+
+  .swiper-slide-bg {
+    width: 100%;
+    height: 100vh;
+  }
+
+  .dropbtn {
+    color: black;
+    font-size: 12px;
+  }
+
+  .dropdown-li-a {
+    color: black;
+    font-size: 10px;
+    text-align: left;
+  }
+
+  .registration-cards {
+    gap: 10px;
+  }
+
+  .registration-title {
+    font-size: 26px;
+  }
+
+  .title-fly {
+    font-size: 26px;
+  }
+
+  .news-cards-title {
+    font-size: 26px;
+  }
+
+  .registration-img {
+    width: 70px;
+    height: 70px;
+  }
+
+  .registration-card-desc {
+    font-size: 6px;
+    line-height: 12px;
+  }
+
+  .reg-card-text {
+    width: 60px;
+    height: 30px;
+    font-size: 6px;
+  }
+
+  .reg-card-num {
+    width: 60px;
+    height: 30px;
+    margin-left: 5px;
+    font-size: 6px;
+  }
+
+  .reg-card-btn {
+    width: 62px;
+    height: 32px;
+    margin-left: 5px;
+    font-size: 5px;
+  }
+
+  .about-header-title {
+    font-size: 40px;
+    margin-top: 300px;
+  }
+
+  .about-header {
+    height: 100vh;
+  }
+
+  .about-services {
+    margin-top: 30px;
+  }
+
+  .about-main-cards {
+    margin-top: 10px;
+  }
+
+  .about-main-card {
+    font-size: 12px;
+  }
+
+  .booking-img {
+    width: 300px;
+    border-radius: 10px;
+  }
+
+  .booking {
+    position: relative;
+    top: 400px;
+    left: 15%;
+    z-index: 3;
+  }
+  .open {
+    display: inline-block;
+    font-size: 10px;
+  } 
+  .nav-lang img {
+    width: 18px;
+    margin-right: 7px;
+  }
+}
+@media (max-width: 430px) and (max-height: 928px) {
+      .swiper-slide-first {
+        background: url(../img/slide_Fly_khiva_2_mobi2.png) no-repeat;
+        width: 100%;
+      }
+    
+      .swiper-slide-second {
+        background: url(../img/slide_Fly_khiva_1_mobi2.png) no-repeat;
+        width: 100%;
+      }
+    
+      .swiper-slide-third {
+        background: url(../img/11_2.png) no-repeat;
+        width: 100%;
+      }
+      .booking-img {
+        width: 300px;
+        border-radius: 10px;
+      }
+}
